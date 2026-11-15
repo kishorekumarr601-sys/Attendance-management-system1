@@ -1,0 +1,6 @@
+{
+  "name": "Smart ERP - AI-Powered Attendance Management System",
+  "description": "Role-based college attendance management ERP with live attendance windows, QR & face-demo check-in, leave workflows, exams & marks, Excel import/export, digital ID cards, and AI insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
